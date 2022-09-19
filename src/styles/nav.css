@@ -1,0 +1,41 @@
+
+.navbar {
+    margin-left: 130px;
+    padding: 20px 0 10px 0;
+}
+ hr {
+     color: #101010;
+     width: 1110px;
+     height: 1px;
+     mix-blend-mode: normal;
+     opacity: 0.2;
+     margin-left: 155px;
+ }
+.navbar-brand {
+    margin-right: 100px;
+}
+.nav-item {
+    margin-right: 22px;
+}
+.navbar-nav .sign-in {
+    margin-left: 200px!important;
+}
+.navbar-nav .create {
+    background: purple;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 10px;
+}
+.nav-link {
+    color: #101010;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 25px;
+    letter-spacing: 2px;
+}
+.nav-link:hover {
+    color: purple;
+}
+.navbar-brand {
+    font-size: 20px;
+}

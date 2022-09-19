@@ -1,0 +1,53 @@
+
+.signUp .form-control {
+    height: 50px;
+    width: 370px;
+    margin: 15px 0 0 15px;
+    border-radius: 8px;
+}
+.signUp .btn-purple {
+    height: 50px;
+    width: 370px;
+    margin: 15px 0 0 5px;
+    border-radius: 8px;
+    background: purple;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+}
+.signUp .btn-dark {
+    background: transparent;
+    color: #101010;
+    height: 50px;
+    width: 370px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+}
+.signUp .google-icon {
+     font-size: 20px;
+     margin-right: 10px;
+ }
+.signUp .forgot-password {
+    text-align: right;
+}
+.signUp .agree {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.214286px;
+    text-align: left!important;
+    width: 320px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.signUp .register {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+/*Register */
